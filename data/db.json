@@ -1,0 +1,374 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 100,
+      "description": "Product 1 description",
+      "stock": 5994
+    },
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 100,
+      "description": "Product 1 description",
+      "stock": 10
+    },
+    {
+      "id": "1",
+      "name": "Product 1",
+      "description": "Product 1 description",
+      "price": 100,
+      "stock": 10,
+      "createdAt": "2025-01-08T23:35:35.789Z",
+      "updatedAt": "2025-01-08T23:35:35.789Z"
+    },
+    {},
+    {
+      "name": "test"
+    },
+    {
+      "name": "test",
+      "price": -2
+    },
+    {
+      "name": "test",
+      "price": -2
+    },
+    {
+      "name": "test",
+      "description": "test desc",
+      "price": 23,
+      "stock": 1
+    },
+    {
+      "name": "test",
+      "description": "test desc",
+      "price": 23,
+      "stock": 1
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 23,
+      "stock": 1
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 1
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 1
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 1
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 123
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 123
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 123
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 123,
+      "id": null,
+      "createdAt": "2025-01-09T09:22:29.622Z",
+      "updatedAt": "2025-01-09T09:22:29.622Z"
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 123,
+      "id": null,
+      "createdAt": "2025-01-09T09:22:30.988Z",
+      "updatedAt": "2025-01-09T09:22:30.988Z"
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 123,
+      "id": null,
+      "createdAt": "2025-01-09T09:22:52.380Z",
+      "updatedAt": "2025-01-09T09:22:52.380Z"
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 123,
+      "id": "0b145804-9d5b-49df-893d-1b96c3f8def2",
+      "createdAt": "2025-01-09T09:24:01.207Z",
+      "updatedAt": "2025-01-09T09:24:01.207Z"
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 123,
+      "id": "1d3ed905-256b-40a3-b278-de63ddeb3e25",
+      "createdAt": "2025-01-09T09:24:02.868Z",
+      "updatedAt": "2025-01-09T09:24:02.868Z"
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 0,
+      "id": "9d88fd36-e7a3-476b-92c0-84a2c414c1a0",
+      "createdAt": "2025-01-09T09:24:03.729Z",
+      "updatedAt": "2025-01-09T09:24:03.729Z"
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 0,
+      "id": "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+      "createdAt": "2025-01-09T09:24:04.286Z",
+      "updatedAt": "2025-01-09T09:24:04.286Z"
+    },
+    {
+      "name": "test2!@$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 1,
+      "id": "2996911a-fef3-47e8-9fb3-5ba2dc8fe08a",
+      "createdAt": "2025-01-09T23:42:40.213Z",
+      "updatedAt": "2025-01-09T23:42:40.213Z"
+    },
+    {
+      "name": "test2!@3$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 1,
+      "id": "f0ab2f2d-9611-47c1-b066-7577a986a001",
+      "createdAt": "2025-01-09T23:42:44.367Z",
+      "updatedAt": "2025-01-09T23:42:44.367Z"
+    },
+    {
+      "name": "test2!@3$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 1,
+      "id": "4b488af1-7a3e-415c-8e9c-e82b6054789c",
+      "createdAt": "2025-01-09T23:42:49.284Z",
+      "updatedAt": "2025-01-09T23:42:49.284Z"
+    },
+    {
+      "name": "test2!@3$",
+      "description": "test desc",
+      "price": 223,
+      "stock": 2,
+      "id": "1f62f976-cf72-451d-9b91-576d53138b49",
+      "createdAt": "2025-01-09T23:42:54.666Z",
+      "updatedAt": "2025-01-09T23:42:54.666Z"
+    }
+  ],
+  "orders": [
+    {
+      "productsIds": [
+        "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+        "9d88fd36-e7a3-476b-92c0-84a2c414c1a0"
+      ],
+      "customerId": "1",
+      "id": "3cc19717-71c8-41a2-92a9-a81758f43bfd",
+      "createdAt": "2025-01-09T14:13:21.098Z",
+      "updatedAt": "2025-01-09T14:13:21.098Z"
+    },
+    {
+      "productsIds": [
+        "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+        "9d88fd36-e7a3-476b-92c0-84a2c414c1a0"
+      ],
+      "customerId": "1",
+      "id": "20e30610-0a66-4f71-afbb-1b8adb7a66db",
+      "createdAt": "2025-01-09T14:13:46.766Z",
+      "updatedAt": "2025-01-09T14:13:46.766Z"
+    },
+    {
+      "id": "aa93778f-7315-467a-be7f-904d1d2bfbe8",
+      "productsIds": [
+        "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+        "9d88fd36-e7a3-476b-92c0-84a2c414c1a0"
+      ],
+      "customerId": "1",
+      "createdAt": "2025-01-09T22:33:53.867Z",
+      "updatedAt": "2025-01-09T22:33:53.867Z"
+    },
+    {
+      "id": "e6279745-7343-4bdb-aa30-894b056b126d",
+      "productsIds": [
+        "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+        "9d88fd36-e7a3-476b-92c0-84a2c414c1a0"
+      ],
+      "customerId": "1",
+      "createdAt": "2025-01-09T22:53:09.095Z",
+      "updatedAt": "2025-01-09T22:53:09.095Z"
+    },
+    {
+      "id": "49625465-5379-41fe-b8bd-2f38138cd732",
+      "productsIds": [
+        "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+        "9d88fd36-e7a3-476b-92c0-84a2c414c1a0"
+      ],
+      "customerId": "1",
+      "createdAt": "2025-01-09T22:53:40.324Z",
+      "updatedAt": "2025-01-09T22:53:40.324Z"
+    },
+    {
+      "id": "4cba4a58-be37-4d24-b8d7-7954e60a160a",
+      "productsIds": [
+        "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+        "9d88fd36-e7a3-476b-92c0-84a2c414c1a0"
+      ],
+      "customerId": "1",
+      "createdAt": "2025-01-09T22:53:51.772Z",
+      "updatedAt": "2025-01-09T22:53:51.772Z"
+    },
+    {
+      "id": "0eb33a00-db6f-4d7e-bae4-5f1795572b94",
+      "productsIds": [
+        "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+        "9d88fd36-e7a3-476b-92c0-84a2c414c1a0"
+      ],
+      "customerId": "1",
+      "createdAt": "2025-01-09T23:25:12.701Z",
+      "updatedAt": "2025-01-09T23:25:12.701Z"
+    },
+    {
+      "id": "f36d4646-0239-481e-8662-5271aefe0e24",
+      "productsIds": [
+        "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+        "9d88fd36-e7a3-476b-92c0-84a2c414c1a0"
+      ],
+      "customerId": "1",
+      "createdAt": "2025-01-09T23:25:13.534Z",
+      "updatedAt": "2025-01-09T23:25:13.534Z"
+    },
+    {
+      "id": "9ed2d608-2d8d-45af-bf3c-fd0dcf357f4c",
+      "productsIds": [
+        "16a8c21a-b052-47d8-9f17-9f0ad4f96907",
+        "9d88fd36-e7a3-476b-92c0-84a2c414c1a0"
+      ],
+      "customerId": "1",
+      "createdAt": "2025-01-09T23:25:14.643Z",
+      "updatedAt": "2025-01-09T23:25:14.643Z"
+    },
+    {
+      "id": "d8b63428-b33d-42b2-8bc2-46c93e27d8e5",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:24.053Z",
+      "updatedAt": "2025-01-09T23:44:24.053Z"
+    },
+    {
+      "id": "c6d5a8d2-dd43-4d4a-96a3-d9241befb265",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:26.408Z",
+      "updatedAt": "2025-01-09T23:44:26.408Z"
+    },
+    {
+      "id": "985a1c73-ee91-40e6-98ad-9797113ef044",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:27.022Z",
+      "updatedAt": "2025-01-09T23:44:27.022Z"
+    },
+    {
+      "id": "0d97def6-a32c-4da1-ac94-b661f6602a50",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:36.463Z",
+      "updatedAt": "2025-01-09T23:44:36.463Z"
+    },
+    {
+      "id": "2a35cda4-3e65-403d-b299-1a09510386fd",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:36.932Z",
+      "updatedAt": "2025-01-09T23:44:36.932Z"
+    },
+    {
+      "id": "52ced23f-b65a-4b70-86c2-df395591de4a",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:37.624Z",
+      "updatedAt": "2025-01-09T23:44:37.624Z"
+    },
+    {
+      "id": "551ef3eb-17f7-41e3-8637-9f49f644131d",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:38.095Z",
+      "updatedAt": "2025-01-09T23:44:38.095Z"
+    },
+    {
+      "id": "af0b964b-8cf7-46e4-ae73-f4e7a56b0210",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:38.516Z",
+      "updatedAt": "2025-01-09T23:44:38.516Z"
+    },
+    {
+      "id": "1820f705-85d6-4776-94b2-dd7f59a8e02a",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:38.963Z",
+      "updatedAt": "2025-01-09T23:44:38.963Z"
+    },
+    {
+      "id": "268611c2-a891-4069-8c38-85934a9f82ac",
+      "productsIds": [
+        "1"
+      ],
+      "customerId": "123",
+      "createdAt": "2025-01-09T23:44:39.503Z",
+      "updatedAt": "2025-01-09T23:44:39.503Z"
+    }
+  ]
+}
