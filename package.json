@@ -1,0 +1,35 @@
+{
+  "name": "coffe-mug-recruitment-task",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch --clear-screen=false src/index.ts | pino-pretty",
+    "build": "tsup src/",
+    "start": "node dist/index.js",
+    "clean": "rimraf dist coverage"
+  },
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http-status-codes": "^2.3.0",
+    "lowdb": "^7.0.1",
+    "pino": "^9.4.0",
+    "reflect-metadata": "^0.2.2",
+    "uuid": "^11.0.4",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.5",
+    "nodemon": "^3.1.9",
+    "pino-pretty": "^11.0.0",
+    "rimraf": "^6.0.0",
+    "tsup": "^8.0.2",
+    "tsx": "^4.7.2",
+    "typescript": "~5.6.2"
+  }
+}
